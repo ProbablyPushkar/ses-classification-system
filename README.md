@@ -9,8 +9,8 @@ This is a simple Streamlit web app that classifies a given message as **Spam** o
 
 ## 📦 Setup
 1. Clone the repo:
-git clone https://github.com/your-username/sms-spam-classifier.git
-cd sms-spam-classifier
+git clone https://github.com/your-username/ses-classification-system.git
+cd ses-classification-system
 
 2. Install dependencies:
 pip install -r requirements.txt
